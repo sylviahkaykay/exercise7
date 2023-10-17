@@ -1,0 +1,192 @@
+nav ul{
+display: flex;
+text-decoration: none;
+list-style: none;
+gap: 10rem;
+justify-content: right;
+padding: 0%;
+margin: 0%;
+}
+nav ul :hover{
+ background-color: rgb(160, 198, 233);
+ 
+}
+
+h1{
+    padding: 0%;
+}
+
+img{
+    height: 40rem;
+    width: 40rem;
+}
+ 
+article{
+    display: flex;;
+    background-color: rgb(149, 194, 233);
+}
+
+.sectionA{
+    padding: 8rem;
+}
+
+.aa{
+ font-weight: 700px;
+ font: size 70px; 
+ font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+.bb{
+    font-weight: 900;
+    font-size: 50px;
+    font-style: inherit;
+}
+button{
+   border-radius: 2rem;
+   background-color: blue;
+}
+
+
+.sectionB{
+      display: flex;
+        justify-content: space-evenly;
+        
+    }
+
+.image3{
+    height: 10rem;
+    width: 10rem;    
+}
+
+.image4{
+    height: 10rem;
+    width: 10rem;   
+}
+
+.image5{
+    height: 10rem;
+    width: 10rem; 
+}
+h2{
+    text-align: center; 
+}
+
+
+h3{
+    text-align: center;
+}
+
+.air{
+   
+    height: 23rem;
+    width: 25rem;
+}
+
+
+.rain{
+    
+   height: 23rem;
+   width: 25rem;
+   
+}
+
+.sectionC{
+    display: flex;
+    background-color:  rgb(180, 208, 233);
+    justify-content: space-evenly;
+}
+
+.sectionD{
+    display: flex;
+    background-color:  rgb(155, 196, 231);
+    justify-content: space-evenly;
+}
+
+h4{
+    text-align: center;
+}
+
+.sectionE{
+    display: flex;
+}
+.kay{
+    border-radius: 2rem;
+    background-color: white;
+    width: 10rem;
+    height: 3rem;
+}
+
+.sectionF{
+    text-align: center;
+    background-color: rgb(147, 190, 228);
+}
+
+h5{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    font-weight: 600;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image2{
+    height:15rem;
+width: 15rem;
+}
+.beee{
+    
+    padding-right:10rem;
+    padding-left:10rem;
+}
+
+.two{
+    display: flex;
+    justify-content: space-evenly;
+    padding-inline: 3rem;
+}
+
+.dots{
+    text-align: center;
+    font-weight: bolder;
+}
+.sectionG{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style: none;
+    text-align: right;
+    
+}
+.sectionG :hover{
+    background-color: rgb(240, 245, 248);
+    border-radius: 2rem;
+}
+
+.sea{
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+
+.ree{
+    height: 5rem;
+    width: 5rem;
+}
+
+h6{
+    text-align: center;
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body{
+    background: rgb(9,9,121);
+background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(4,115,191,1) 45%, rgba(0,212,255,1) 74%);
+}
+
+.one{
+    background-color: white;
+}
+   
